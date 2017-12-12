@@ -1,0 +1,1 @@
+python .\image_retraining\retrain.py --bottleneck_dir=C:\Hackton\TF_Test\bottlenecks --how_many_training_steps 1000 --model_dir=C:\Hackton\TF_Test\inception --output_graph=C:\Hackton\TF_Test\retrained_graph.pb --output_labels=C:\Hackton\TF_Test\retrained_labels.txt --image_dir=C:\Hackton\TF_Test\images\
